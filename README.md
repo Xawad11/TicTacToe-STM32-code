@@ -31,5 +31,3 @@ Player input is taken through a **4×4 matrix keypad**, and the game state is di
 
 ---
 
-## Project Type
-Embedded systems project for **CSE 331L (Fall 2025)**.
